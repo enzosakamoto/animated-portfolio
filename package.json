@@ -1,7 +1,7 @@
 {
-  "name": "hexagonal_arch_react_template",
+  "name": "animated-portfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
